@@ -4,7 +4,7 @@ server:
 eureka:
   client:
     service-url:
-      defaultZone: http://193.112.17.35:9080/eureka/ # 服务注册中心地址
+      defaultZone: http://xxxxxxxxxx:9080/eureka/ # 服务注册中心地址
 
 spring:
   application:
